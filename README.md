@@ -1,0 +1,1 @@
+it's simplify algoritm who make equal x to a and molule(p)
